@@ -1,0 +1,81 @@
+- fixa resolutions lista till klassmedlem i options-menyn
+- bugg när man startar om spelet efter att man vunnit det.
+- buggar med kometer, går att trycka ut dem ur skärmen, stora kometen blir lite buggig när man stöter till den
+
+- change to correct size when displaying explosion
+
+ 
+- get music from andreas
+	- menu (all menus)
+	- lvl 1
+	- lvl 2
+	- lvl 3
+	- lvl 4
+	- lvl 5
+- get special effect from andreas
+	- different enemy missiles
+	- player missiles
+	- explosions
+
+- graphics by christopher
+	- backgrounds
+		- menu
+		- lvl 1
+		- lvl 2
+		- lvl 3
+		- lvl 4
+		- lvl 5
+		- victory
+		- defeat
+	- enemies
+			- laser for all enemies
+		
+	- player
+		- afterburner for victory pose
+		- loosing explosion
+
+
+
+
+
+		låtar jag har
+		------------------------
+		"LGTUNE",
+		"ALONE IN THE ATTIC",
+		"HURT IN HEART",
+		"LENNART",
+		"INFINITII",
+		"DARK HEAVEN",
+		"JUST NEW",
+		"IONOSPHERE",
+
+musik:
+	Menu - lgtune
+	Lvl1 - Alone in the attic
+	Lvl2 - Hurt in heart
+	Lvl3 - Lennart
+	Lvl4 - Infinitii
+	Lvl5 - dark heaven
+	score/victory - just new
+	defeat - ionosphere
+
+
+från facebook
+----------------------
+demotune v3
+
+mp3
+----------------------------
+8-bit2
+Infinitii [Alpha.Mk.4]
+Modular Memory
+Rabid Fantasy [Reimagine No1.1]
+Alone in the Attic 2012
+	
+.XM
+-----------------------------------
+(MRGHURT) Hurt in heart
+(MRGDARK) Dark heaven - boss?
+
+
+
